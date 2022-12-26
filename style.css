@@ -1,0 +1,62 @@
+#title {
+    text-align: center;
+    margin-bottom: 55px;
+    font-size: 60px;
+}
+
+.scoreBoard {
+    margin: 20px auto;
+    border: 3px solid black;
+    text-align: center;
+    width: 200px;
+}
+
+#userLabel {
+    position: relative;
+    top: 30px;
+    left: -25px;
+}
+
+#computerLabel {
+    position: relative;
+    top: 6px;
+    right: -28px;
+}
+
+#userScore {
+    font-size: 35px;
+    margin-right: 5px;
+}
+
+#computerScore {
+    font-size: 35px;
+    margin-left: 5px;
+}
+
+.result {
+    text-align: center;
+    font-size: 40px;
+}
+
+.choices {
+    text-align: center;
+    margin: 50px;
+}
+
+.choice {
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.switch {
+    text-align: center;
+    font-size: 30px;
+}
+
+.footer {
+    text-align: center;
+    font-size: 40px;
+    position: relative;
+    bottom: 10px;
+    left: 5px;
+}
